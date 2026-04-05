@@ -14,10 +14,18 @@ As an Economist transitioning into Data Analytics in Sydney, I developed this da
 
 ---
 
-### Data Preparation (ETL Phase)
+### 📂 Data Preparation (ETL Phase)
 * **Data Sources:** Merged 3 relational datasets (Sales, Features, and Stores) totaling 45 stores and 81 departments.
 * **Cleaning:** Handled missing values (NA) in promotional markdowns, standardized date formats, and optimized data types for performance.
 * **Integrity:** Created a unified data model to analyze sales alongside regional economic indicators.
+
+#### **Evidence of ETL Process in Power Query:**
+
+*1. Original Data with Missing Values (NAs):*
+![Initial Data with NAs](1_PowerQuery_Initial_NA_Data.png.png)
+
+*2. Data Modeling & Star Schema (Table Relationships):*
+![Data Model Relationships](3_Final_DataModel_Relationships.png.png)
 
 ---
 
