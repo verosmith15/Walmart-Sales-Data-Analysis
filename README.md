@@ -1,4 +1,4 @@
-# Walmart Sales & Macroeconomic Analysis 🛒📊
+# Walmart Sales & Macroeconomic Analysis
 
 ### Project Overview
 This project explores the relationship between historical retail sales and external factors such as **promotional markdowns**, **Consumer Price Index (CPI)**, and **unemployment rates**. 
