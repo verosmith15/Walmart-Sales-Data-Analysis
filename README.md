@@ -31,13 +31,15 @@ Before the analysis, I managed the end-to-end data pipeline to ensure accuracy:
 ### Executive Dashboard & Interactive Analysis
 The final dashboard provides a high-level view of the **$6.74bn total revenue** while allowing granular deep-dives into specific stores and economic conditions.
 
-![Main Dashboard Overview](Screenshot 2026-04-08 233501.png)
+![Main Dashboard Overview](Screenshot%202026-04-08%20233501.png)
 *The main interface features a high-contrast design for executive decision-making.*
 
 #### **Advanced Feature: Dynamic Tooltips**
 To provide instant context without cluttering the main view, I developed a custom Report Page Tooltip. When hovering over the scatter plot, the user can see a specific store's promotional mix (MD1-MD5) alongside its local CPI and Unemployment rate.
 
-![Tooltip Interaction](Screenshot 2026-04-08 233227.png)
+![Tooltip Interaction](Screenshot%202026-04-08%20233625.png)
+
+![Tooltip Interaction](Screenshot%202026-04-08%20233539.png)
 *Interactive tooltip showing promotional breakdown (MD1: 22M) and macroeconomic context for specific stores.*
 
 ---
@@ -53,12 +55,12 @@ Using the tooltip deep-dive, I identified that **Markdown 1 (MD1)** is the prima
 **3. Are holidays significantly impacting performance?**
 By applying the "IsHoliday" filter, the data confirms a significant revenue lift during holiday weeks ($505M in specific periods). However, the trend chart shows that sales efficiency must be managed closely against rising fuel prices during these peaks.
 
-![Holiday Filter Analysis](Screenshot 2026-04-08 233555.png)
+![Holiday Filter Analysis](Screenshot%202026-04-08%20233555.png)
 *Drilling down into holiday performance and seasonal trends.*
 
 **4. Which stores are the top contributors?**
 The dashboard identifies "Power Stores" (e.g., Stores 4, 14, and 20) that consistently exceed $280M. Management can use this to replicate their promotional mix (MD1/MD5 focus) in underperforming regions.
 
 ---
-*Developed by: [Your Name/GitHub Username]*
+*Developed by: [Veronica Smith Torres Maza/verosmith15]*
 *Location: Sydney, Australia*
