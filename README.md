@@ -5,6 +5,8 @@ This project explores the relationship between historical retail sales and exter
 
 As an Economist transitioning into Data Analytics in Sydney, I developed this dashboard to demonstrate how data-driven insights can optimize operational decision-making in a large-scale retail environment.
 
+[📊 **View Live Interactive Dashboard Here**](https://app.powerbi.com/view?r=eyJrIjoiM2JhNTg5NjAtNDlhOC00N2M3LWE2YzEtNjZlZDZiYzQ5MjZhIiwidCI6IjhlZmNiNDQxLTQ4MWQtNGE1ZS1iZDc1LWJkYjljYTdmOGFkYSIsImMiOjR9)
+
 ---
 
 ### Tech Stack & Skills
